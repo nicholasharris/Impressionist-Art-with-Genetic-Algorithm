@@ -1,7 +1,7 @@
 # Impressionist-Art-with-Genetic-Algorithm
 Create an impressionist rendering of any image, using a genetic algorithm. Written in JavaScript.
 
-This tool can be run in your web browser. Upload an image of your choice, and a genetic algorithm will evolve a population of small blotches to create a new image that will become more and more similar to the input image. The result is an impressionist-like rendering of the initial image that is aesthetically very interesting. At present, the images generated are only of 200x200 size.
+This tool can be run in your web browser. Upload an image of your choice, and a genetic algorithm will evolve a population of small blotches to create a new image that will become more and more similar to the input image. The result is an impressionist-like rendering of the initial image that is aesthetically very interesting. At present, the images generated are only of 400x400 size.
 
 TO USE:  Download the provided folder. Open index.html in your broswer, and click the "browse" button to select an image of your choice. Then the population will begin evolving and you can watch the resulting image become an increasingly accurate depiction of the input image. It should take only a couple of minutes for the image to look quite good. Tested in Firefox.
 
